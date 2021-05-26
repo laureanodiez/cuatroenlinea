@@ -108,4 +108,3 @@ else:
 
 '''print(contenidoColumna(1, tablero))
 print(contenidoFila(1, tablero))'''
-
